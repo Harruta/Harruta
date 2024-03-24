@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harruta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
