@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Harruta
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Harruta. I just started learning coding and am very passionate about coding, want to build a carrier on AI/ML
+- Right now i am learning python.
 
 <!---
 Harruta/Harruta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
