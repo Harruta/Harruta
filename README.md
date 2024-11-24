@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I just started learning programing<br>🌱 I’m currently learning python<br>⚡ I code for fun
+🔭 I just started learning programing<br>🌱 I’m currently learning web development<br>⚡ I code for fun
 
 
 ## 🌐 Socials:
