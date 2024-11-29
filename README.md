@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I am Haru<be> MERN Dev<br>
+Hello I am Haru <br> MERN Dev<br>
 
 
 ## 🌐 Socials:
