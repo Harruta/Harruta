@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I am Haru<br>I am currently learning web development<br>
+Hello I am Haru<be>MERN Dev<br>
 
 
 ## 🌐 Socials:
